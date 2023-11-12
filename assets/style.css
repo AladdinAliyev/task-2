@@ -1,0 +1,70 @@
+
+
+.box1,input,type,placeholder {
+    font-size: 20px;
+    width: 1300px;
+    height: 25px;
+    border-radius: 50px;
+    
+    
+
+}
+.box2,button{
+    position: right top;
+    width: 150px;
+    height: 25px;
+    border-radius: 50px;
+    
+    
+}
+
+
+
+
+
+
+
+
+table{
+    width: 100%;
+    border: 1px solid black;
+    text-align: left;
+}
+th{
+  
+    height: 45px;
+    background-color: rgb(220, 220, 220);
+    color: rgb(40, 38, 38);
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid rgb(220, 220, 220);
+}
+
+ td{
+    text-align: left;
+    vertical-align: center;
+    height: 50px;
+    
+   
+}
+
+table , th {
+    border: 1px solid rgb(220, 220, 220); 
+    border-collapse: collapse;
+
+}
+
+table , td {
+    border: 2px solid #ffbb00;
+    border-collapse: collapse;
+}
+table td i{
+    text-align: center;
+}
+
+
+
+
+
+
+
